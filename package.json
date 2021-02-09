@@ -1,0 +1,26 @@
+{
+  "name": "actuonix-lac",
+  "version": "1.0.0",
+  "description": "Actuonix LAC c++ bindings",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mihok/actuonix-lac.git"
+  },
+  "keywords": [
+    "actuonix",
+    "lac"
+  ],
+  "author": "Matthew Mihok <matthew@mihok.computer>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/mihok/actuonix-lac/issues"
+  },
+  "homepage": "https://github.com/mihok/actuonix-lac#readme"
+}
