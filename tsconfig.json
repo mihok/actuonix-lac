@@ -1,0 +1,31 @@
+{
+    "compilerOptions": {
+      "module": "commonjs",
+      "removeComments": true,
+      "esModuleInterop": true,
+      "target": "esnext",
+      "noImplicitAny": true,
+      "strictFunctionTypes": true,
+      "strictNullChecks": true,
+      "noImplicitThis": true,
+      "alwaysStrict": true,
+      "noUnusedLocals": true,
+      "noImplicitReturns": true,
+      "noFallthroughCasesInSwitch": true,
+      "moduleResolution": "node",
+      "sourceMap": true,
+      "outDir": "dist",
+      "baseUrl": ".",
+      "lib": [
+        "DOM",
+        "ES5",
+        "ES2015",
+        "ES2016",
+        "ES2017"
+      ],
+      "declaration": true
+    },
+    "include": [
+      "src/lac.ts"
+    ]
+  }
